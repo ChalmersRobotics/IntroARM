@@ -33,7 +33,7 @@ enum
 	MusicSecretDiscovered,
 	MusicMm4Victory,
 	MusicOneUp,
-	MusicBbossEnter,
+	MusicBossEnter,
 	MusicFfVictoryTheme,
 	MusicMarioFlagPole,
 	MusicNofMusic

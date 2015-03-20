@@ -272,7 +272,7 @@ void buzzerPlayMelodyFromMem(unsigned char number)
 	case MusicOneUp:
 		melodyPtr=(uint16_t*)oneUp;
 		break;
-	case MusicBbossEnter:
+	case MusicBossEnter:
 		melodyPtr=(uint16_t*)bossEnter;
 		break;
 	case MusicFfVictoryTheme:
