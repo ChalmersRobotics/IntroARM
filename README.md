@@ -1,11 +1,13 @@
 # IntroARM
-##Description
+> Please note that, as of August 2018, this project is no longer maintained or developed.
+
+## Description
 A robotics kit made by Chalmers Robotics. The kit is a basic introduction to robotics it consists of a PCB with a STM microprocessor a few infrared sensors, motor and wheeels.
 The kit is made to meet up with the specifications of the Mini Sumo competition.
 
-##Hardware
+## Hardware
 The hardware consists of:
-###Electronics
+### Electronics
 * STM32F100CBTx med ARM Cortex-M3, 64-128kB Flash, 8kB RAM
 * 4 IR-avståndssensorer
 * 2 kantsensorer
@@ -19,7 +21,7 @@ The hardware consists of:
 * 3-axlig gyrometer
 * Batterimätning 
 
-###Mechanics
+### Mechanics
 * 2 Pololu Micro Metal Gear motor HP (100:1 som standard)
 * 2 Motorfästen som monteras direkt på kretskortet
 * 2 Hjul med tachometertänder
